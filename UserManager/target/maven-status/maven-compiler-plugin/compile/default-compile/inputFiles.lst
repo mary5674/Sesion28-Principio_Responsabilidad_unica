@@ -1,0 +1,17 @@
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/App.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/lsp/Animal.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/lsp/Dog.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/lsp/Fish.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/lsp/Main.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/lsp/WalkingAnimal.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/ocp/EmailNotification.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/ocp/Main.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/ocp/Notification.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/ocp/NotificationService.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/ocp/PushNotification.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/ocp/SMSNotification.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/srp/Main.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/srp/NotificationService.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/srp/UserManager.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/srp/UserRepository.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/srp/UserValidator.java
