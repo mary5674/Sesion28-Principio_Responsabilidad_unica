@@ -1,4 +1,15 @@
 /workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/App.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/dip/CreditCardPayment.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/dip/CryptoPayment.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/dip/Main.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/dip/PayPalPayment.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/dip/PaymentMethod.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/dip/PaymentProcessor.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/isp/Chargeable.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/isp/DisposableCamera.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/isp/Main.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/isp/Phone.java
+/workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/isp/Powerable.java
 /workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/lsp/Animal.java
 /workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/lsp/Dog.java
 /workspaces/Solid_G2_Lunes/UserManager/src/main/java/com/ejemplo/lsp/Fish.java
